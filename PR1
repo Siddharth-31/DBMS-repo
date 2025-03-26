@@ -1,0 +1,9 @@
+1) show databases;
+2) create database Department;
+3) use Department;
+4) desc Department;
+5) insert into Department(Dep_id,DepName,DepAddr)values
+    -> (1,"IT","PREC"),
+    -> (2,"CIVIL","LONI"),
+    -> (3,"MECH","PRES");
+6) select *from Department;
